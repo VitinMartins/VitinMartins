@@ -1,9 +1,14 @@
-##Epa! Eu sou o Vitor Martins
+## Epa! Eu sou o Vitor Martins
+
+### 🎓Cursando Ciência da Computação - UNIFOR;
+### 🤘🏽Estudando as linguagens: JavaScript e Phyton;
+### 👨🏽‍💻Atualmente estou na área do Front-End;
+### 🙌🏽Objetivo: Programador Full-Stack;
+
 
 
 <div align="center">
   <a href="https://github.com/VitinMartins">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMartins&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
