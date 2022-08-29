@@ -1,7 +1,7 @@
 ## Epa! Eu sou o Vitor Martins
 
 ### 🎓Cursando Ciência da Computação - UNIFOR;
-### 🤘🏽Estudando as linguagens: JavaScript e Phyton;
+### 🤘🏽Estudando as linguagens: JavaScript e C#;
 ### 👨🏽‍💻Atualmente estou na área do Front-End;
 ### 🙌🏽Objetivo: Programador Full-Stack;
 
